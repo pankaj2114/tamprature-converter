@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(247, 238, 225);
+}
+h1{
+    margin: auto;
+    text-align: center;
+    padding-top: 4em;
+    padding-bottom: 1em;
+    text-shadow: 4px 1px 4px rgb(212, 201, 201);
+
+}
+.container{
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+    width: 37em;
+    background-color: rgb(202, 205, 203);
+    
+   
+}
+.input{
+    /* display: inline-block; */
+    justify-content: center;
+    text-align: center;
+    padding: .8em;      
+}
+input{
+    padding: .7em;
+    font-size: 15px;
+    text-align: center;
+    box-shadow: 3px 4px rgb(175, 180, 176);
+    font-weight: bold;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 2rem;
+}
+
